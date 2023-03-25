@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todobien/static/css/main.41714f55.css",
+    "main.js": "/todobien/static/js/main.5ce0b3c0.js",
+    "index.html": "/todobien/index.html",
+    "main.41714f55.css.map": "/todobien/static/css/main.41714f55.css.map",
+    "main.5ce0b3c0.js.map": "/todobien/static/js/main.5ce0b3c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41714f55.css",
+    "static/js/main.5ce0b3c0.js"
+  ]
+}
