@@ -1,0 +1,12 @@
+.subtitle{
+    background-color: rgb(234, 102, 66);
+    width: 100%;
+    position: absolute;
+    padding-top: 130px;
+    padding-bottom: 20px;
+    top: 0;
+    font-size: 28px;
+    text-align: center;
+    color: aliceblue;
+    
+}

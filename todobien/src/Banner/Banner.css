@@ -1,0 +1,13 @@
+.banner{
+    background-color: rgb(234, 102, 66);
+    width: 100%;
+    position: absolute;
+    padding-top: 80px;
+    font-weight: 500;
+    top: 0;
+    font-size: 36px;
+    text-align: center;
+    z-index: 10;
+    color: aliceblue;
+    
+}

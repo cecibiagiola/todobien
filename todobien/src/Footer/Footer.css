@@ -1,0 +1,21 @@
+.footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #292929;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    text-align: center;
+}
+a{
+    color: #fff;
+}
+ul{
+    text-align: center;
+    list-style: none;
+}

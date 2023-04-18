@@ -1,7 +1,12 @@
 import './App.css';
 import './Button/Button.js'
 import { Button } from './Button/Button.js';
-import Swal from 'sweetalert2'; 
+import Swal from 'sweetalert2';
+
+import Footer from './Footer/Footer';
+import { Banner } from './Banner/Banner';
+import { Subtitle } from './Subtitle/Subtitle';
+
 
 
 function App() {
@@ -29,7 +34,6 @@ function App() {
         )
       }
     }).then((result) => {
-      /* Read more about handling dismissals below */
       if (result.dismiss === Swal.DismissReason.timer) {
         console.log('I was closed by the timer')
       }
@@ -39,9 +43,17 @@ function App() {
   
   return (
     <div className="App">
+      
+      <Banner 
+      title={'Deja de ser infeliz.'}
+            />
+      <Subtitle
+      subtitle={'Cambia tu vida con un click'}
+      />
       <Button 
-      text={'Quiero que todo esté bien'}
+      text={'QUIERO QUE TODO ESTÉ BIEN👍🏽'}
       onHandleClick= {onHandleClick}/>
+      <Footer />
     </div>
   );
 }
