@@ -50,7 +50,7 @@ function App() {
       <Subtitle
       subtitle={'Cambia tu vida con un click'}
       />
-      <Button 
+      <Button  
       text={'QUIERO QUE TODO ESTÉ BIEN👍🏽'}
       onHandleClick= {onHandleClick}/>
       <Footer />
