@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/todobien/static/css/main.4c1e9337.css",
-    "main.js": "/todobien/static/js/main.837135ab.js",
+    "main.css": "/todobien/static/css/main.93fd73b6.css",
+    "main.js": "/todobien/static/js/main.7d698879.js",
     "index.html": "/todobien/index.html",
-    "main.4c1e9337.css.map": "/todobien/static/css/main.4c1e9337.css.map",
-    "main.837135ab.js.map": "/todobien/static/js/main.837135ab.js.map"
+    "main.93fd73b6.css.map": "/todobien/static/css/main.93fd73b6.css.map",
+    "main.7d698879.js.map": "/todobien/static/js/main.7d698879.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c1e9337.css",
-    "static/js/main.837135ab.js"
+    "static/css/main.93fd73b6.css",
+    "static/js/main.7d698879.js"
   ]
 }
