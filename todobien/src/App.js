@@ -48,7 +48,7 @@ function App() {
       title={'Deja de ser infeliz.'}
             />
       <Subtitle
-      subtitle={'Cambia tu vida con un click'}
+      subtitle={'Toca el botón y soluciona todo.'}
       />
       <Button  
       text={'QUIERO QUE TODO ESTÉ BIEN👍🏽'}
